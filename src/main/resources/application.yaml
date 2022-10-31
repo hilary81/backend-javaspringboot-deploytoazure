@@ -1,0 +1,6 @@
+azure:
+  storage:
+    container:
+      name: video
+    connection:
+      string: DefaultEndpointsProtocol=https;AccountName=carrentelstorage;AccountKey=jQzhdhZA7DrbibXSkB/OdW2vI+MaajQIkJKCPQfVkHe/ZZ0AKprG+GgwjFHOWLI5EFJCoNtPfpKc+AStjTSl6A==;EndpointSuffix=core.windows.net
